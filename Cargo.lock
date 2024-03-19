@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "rusty_pyron_build"
+name = "pyron"
 version = "0.1.0"
